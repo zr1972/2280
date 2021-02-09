@@ -1,0 +1,26 @@
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/2280 - financial.deps.json
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/2280 - financial.runtimeconfig.json
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/2280 - financial.runtimeconfig.dev.json
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/2280 - financial.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/2280 - financial.pdb
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/FSharp.Core.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/cs/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/de/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/es/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/fr/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/it/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/ja/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/ko/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/pl/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/pt-BR/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/ru/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/tr/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/zh-Hans/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/bin/Debug/net5.0/zh-Hant/FSharp.Core.resources.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/obj/Debug/net5.0/2280 - financial.fsprojAssemblyReference.cache
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/obj/Debug/net5.0/2280 - financial.AssemblyInfoInputs.cache
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/obj/Debug/net5.0/2280 - financial.AssemblyInfo.fs
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/obj/Debug/net5.0/2280 - financial.fsproj.CopyComplete
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/obj/Debug/net5.0/2280 - financial.dll
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/obj/Debug/net5.0/2280 - financial.pdb
+/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/obj/Debug/net5.0/2280 - financial.genruntimeconfig.cache

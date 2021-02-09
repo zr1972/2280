@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "REiyQi9lxIVltmwBsAlzsywP/5oA2lQOds4e0tW1SyOanPq0Z+3a2NBe9Y7jitOTIWM0CHx6PTdxk7jdhV4hmQ==",
+  "success": true,
+  "projectFilePath": "/Users/shizhuoran1998/Desktop/写作业/2021/2280 - financial/2280 - financial.fsproj",
+  "expectedPackageFiles": [
+    "/Users/shizhuoran1998/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
